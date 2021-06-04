@@ -1,3 +1,3 @@
 VERSION := 5.3
 BUILDARG_VERSION := --build-arg VERSION=$(VERSION)
-IMAGENAME := docker.io/silviof/docker-languagetool
+IMAGENAME := docker.io/nbz4live/docker-languagetool
